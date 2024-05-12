@@ -1,6 +1,6 @@
 # Privacy Policy, GDPR
-### [Deutsch](https://github.com/ReIaxo/FestivalGuide/blob/main/PrivacyPolicy/PrivacyPolicy-de.md)
-### [English](https://github.com/ReIaxo/FestivalGuide/blob/main/PrivacyPolicy/PrivacyPolicy-en.md)
+### [Deutsch](https://reiaxo.github.io/FestivalGuide/PrivacyPolicy/PrivacyPolicy-de)
+### [English](https://reiaxo.github.io/FestivalGuide/PrivacyPolicy/PrivacyPolicy-en)
 
 # Support
 [Support us!](https://reiaxo.github.io/FestivalGuide/Support/Support-en)
